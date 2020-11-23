@@ -1,4 +1,3 @@
-## Agar.io
 
 ### Arquitectura y microservicos
 
